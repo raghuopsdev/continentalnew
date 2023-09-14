@@ -1,1 +1,2 @@
 welcome
+To DevOps Training session
